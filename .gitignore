@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+.env
+.env.local
+.env.production
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+php-api/.env
+php-api/storage/
+php-api/uploads/
